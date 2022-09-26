@@ -10,7 +10,7 @@ so be sure you don't miss something in the old chart
 
 1 - open your chart
 
-2 - click on F12 (or open console)
+2 - click on F12 (or open developer console)
 
 3 - copy the script (script.js) and paste it into the console 
 
