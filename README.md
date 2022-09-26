@@ -16,4 +16,4 @@ so be sure you don't miss something in the old chart
 
 4 - change the __ID_PUBLIC_CHART_ with the id of the layout you want to clone 
 
-5 - Boom! just like that :)
+5 - click enter , Boom! just like that :)
